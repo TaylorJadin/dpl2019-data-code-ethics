@@ -1,3 +1,4 @@
+# pair coding starting at 3.1
 library(tidyverse)
 mpg
 ggplot(data = mpg) +
@@ -43,9 +44,13 @@ ggplot(data = mpg) +
   geom_point(mapping = aes(x = displ, y = hwy)) +
   facet_wrap(~ cyl)
 
-
 ggplot(data = mpg) +
   geom_point(mapping = aes(x = displ, y = hwy))
 
 ggplot(data = mpg) +
   geom_point(mapping = aes(x = displ, y = hwy))
+
+# importing data
+
+shots <- read_csv('')
+

@@ -81,3 +81,11 @@ DigDetox
  
 Privacy vs. Secret
  - root of privacy is privy, who do you tell things?
+
+# importing data
+`name <- read_csv('somefile.csv')`
+use `read_csv` for the tidyverse way of doing things, gets us tibbles instead of tables
+
+`colnames(name)` gives you just the column names of data you have imported
+
+[web scraping package to check out at some point](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
