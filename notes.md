@@ -141,11 +141,10 @@ Anova (Analysis of Variance) = comparing a stream of categorical data with a str
   - ex: is there a relatinoship between house architecture and selling price?
 
 #### Supervised Regression Algorithms
+*Note: check the presentation for helpful images*
 
 Linear regression = what is the relationship between contibuting facgtor(s) and a continous data result?
   - what is the impact of home size and age on sale price?
-
-![source: playing with machine learning: Linear Regression](https://kshaffer.github.io/edtechalgorithms/images/linear_regression.png)
 
 Logistic regression = what is the relationship between contributing factors and a categorical result?
   - do calorie intake and fat intake contribue to heart attacks?
@@ -156,15 +155,12 @@ How do specific features influence classification? How can that information be u
 
 K-Nearest Neighbor
   - computationally cheap
-![source: Classification of Hand-written digits](https://kshaffer.github.io/edtechalgorithms/images/knn.png)
 
 Decision Tree
-![source: Wikipedia](https://kshaffer.github.io/edtechalgorithms/images/dt_titanic.png)
 
 Random Forest
-![source: Random forest classifier combined with feature selection for breast cancer diagnosis and prognostic](https://kshaffer.github.io/edtechalgorithms/images/rf.jpg)
 
 Neural Networks
   - when you hear about a black box that even data scientists don't know what is going on, this is probably what they are talking about, DS's know how it works, but its something a human couldn't do with a pencil paper and calculator and an unlimited amount of time
-![source: Extreme Tech](https://kshaffer.github.io/edtechalgorithms/images/nn.png)
+
 
