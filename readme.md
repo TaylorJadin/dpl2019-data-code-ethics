@@ -1,6 +1,9 @@
+# Notes
+an archive of the code from our pair coding is above, click on the "Code" folder
+
 [website for track - dpl.pushpullfork.com](https://dpl.pushpullfork.com)
 
-[R for Data Science](https://r4ds.had.co.nz/)
+[R for Data Science book](https://r4ds.had.co.nz/)
 
 ## Day 1
 
