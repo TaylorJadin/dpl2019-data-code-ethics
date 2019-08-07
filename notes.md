@@ -176,3 +176,12 @@ Given an event or sequence of events, what is the likelihood that a particular e
 
 Markov Models
 
+#### Exploration of [Knewton Adaptive Learning](https://cdn.tc-library.org/Edlab/Knewton-adaptive-learning-white-paper-1.pdf)
+
+  - is it classificatino or regression?
+    - mostly classification, which means its putting students into categories across all students in the system, so the personalization of the learning might actually
+     be less personalized if you wrote questions for a class of 32 students
+  - is it supervised or unsupervised?
+  - what are the data sources/features?
+  - what are the predicted ouputs?
+  - what is the pedagogical intention?
