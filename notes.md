@@ -89,3 +89,38 @@ use `read_csv` for the tidyverse way of doing things, gets us tibbles instead of
 `colnames(name)` gives you just the column names of data you have imported
 
 [web scraping package to check out at some point](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
+
+## Wednesday
+
+### Ed-tech algorithms and critiquing big-data marking hype
+
+[presentation link](https://kshaffer.github.io/edtechalgorithms)
+
+Data Science is Data Science
+  - when edtech companies talk about proprietary stuff they are really talking about a creative arrangement of stuff that the data science world is already using
+
+More data beats a better algorithm
+  - a fundamental problem in data science, sometimes we start with very little data
+  - more real data beats a creative algorithm
+  
+Machine learning
+  - applied statistics
+  - algorithmic analysis to make better predictions
+  
+|                | Classification | Regression |
+| -------------- | -------------- | ---------- |
+| Supervised     |                |            |
+| Unsupervised   |                |            |
+
+Categorical vs. Continuous
+  - continuous data has a scale
+    - weight, height
+  - categorical can't be measured on a scale
+    - hair color, what team does someone play on 
+    
+Classification vs Regression algorithms
+  - Classification is an algorithm most often used for categorical
+  - Regression algorithms give use continuous data
+  
+Supervised vs Unsupervised
+  - 
