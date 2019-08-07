@@ -123,4 +123,8 @@ Classification vs Regression algorithms
   - Regression algorithms give use continuous data
   
 Supervised vs Unsupervised
-  - 
+  - supervised learning = both data and outcomes are known, the algorithms are just for relationships
+    - you have some data where you known the outcome, and some where you don't so you use the known outcomes to train the model to predict the outcomes
+    - supervised is more common, its also easier to demonstrate it was successful
+  - unsupervised learning = we know the data, but outcomes and relationships are emergent
+    - harder to do, harder to know you got it right especially at first
