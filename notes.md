@@ -164,7 +164,7 @@ Neural Networks
   - when you hear about a black box that even data scientists don't know what is going on, this is probably what they are talking about, DS's know how it works, but its something a human couldn't do with a pencil paper and calculator and an unlimited amount of time
 
 #### Unsupervised classification algorithms
-Given a known set of features, what kinds of classificatinos emerge from the data?
+Given a known set of features, what kinds of classifications emerge from the data?
   - ex: recommendation systems
   
 Topic Modeling
