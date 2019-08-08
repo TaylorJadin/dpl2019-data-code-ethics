@@ -210,3 +210,5 @@ You can combine a few pieces of seeming neutral data which then become stand-ins
 
 [Active Measures](https://www.imdb.com/title/tt8135494/)
 
+**Lack of ethical imagination can be as dangerous as malicious intent.**
+
