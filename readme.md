@@ -202,6 +202,8 @@ Apps/Websites are designed for frictionless use of the features that THEY want y
 
 ### [Algorithmic Harms Beyond Facebook and Google: Emergent Challenges of Computational Agency](http://ctlj.colorado.edu/wp-content/uploads/2015/08/Tufekci-final.pdf)
 
+You can combine a few pieces of seeming neutral data which then become stand-ins for things that we would normally consider discriminatory.
+
 #### media recommendations
 
 [I Am Jane Doe](https://www.netflix.com/title/80167459)
