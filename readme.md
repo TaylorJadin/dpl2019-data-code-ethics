@@ -5,7 +5,7 @@ an archive of the code from our pair coding is above, click on the "Code" folder
 
 [R for Data Science book](https://r4ds.had.co.nz/)
 
-## Day 1
+## Monday
 
 [cool intro activity](https://github.com/kschaffer/dplintros)
 
@@ -46,7 +46,7 @@ Checks in the code could be what text is extracted around the image to improve r
   - deliberate consumption
   - self-examination
 
-## Day 2
+## Tuesday
 
 [Kumu](https://kumu.io) for mapping
 
@@ -181,9 +181,23 @@ Markov Models
 
 #### Exploration of [Knewton Adaptive Learning](https://cdn.tc-library.org/Edlab/Knewton-adaptive-learning-white-paper-1.pdf)
 
-  - is it classificatino or regression?
+  - is it classification or regression?
     - mostly classification, which means its putting students into categories across all students in the system, so the personalization of the learning might actually be less personalized if you wrote questions for a class of 32 students
   - is it supervised or unsupervised?
   - what are the data sources/features?
   - what are the predicted ouputs?
   - what is the pedagogical intention?
+  
+## Thursday
+
+### Computational Agency and Ethical Ed-tech
+
+Tech is not inherently good.
+Tech is not inherently bad.
+Tech is not inherently neutral.
+
+Path of least resistance <--> "frictionless design"
+[Relevant article: Is Tech Too Easy to Use?](https://www.nytimes.com/2018/12/12/technology/tech-friction-frictionless.html)
+
+Apps/Websites are designed for frictionless use of the features that THEY want you to use, not necessarily what the user naturally would want first. This is new to product design. When their business interests are not aligned with the interests of the user that could cause problems.
+
