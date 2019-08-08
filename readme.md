@@ -200,3 +200,11 @@ Path of least resistance <--> "frictionless design"
 
 Apps/Websites are designed for frictionless use of the features that THEY want you to use, not necessarily what the user naturally would want first. This is new to product design. When their business interests are not aligned with the interests of the user that could cause problems.
 
+### [Algorithmic Harms Beyond Facebook and Google: Emergent Challenges of Computational Agency](http://ctlj.colorado.edu/wp-content/uploads/2015/08/Tufekci-final.pdf)
+
+#### media recommendations
+
+[I Am Jane Doe](https://www.netflix.com/title/80167459)
+
+[Active Measures](https://www.imdb.com/title/tt8135494/)
+
