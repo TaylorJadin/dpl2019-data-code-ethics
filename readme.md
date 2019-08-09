@@ -213,3 +213,14 @@ You can combine a few pieces of seeming neutral data which then become stand-ins
 
 **Lack of ethical imagination can be as dangerous as malicious intent.**
 
+## Friday
+
+### an unordered list of cool stuff from presentations
+ - R package for text: [tidytext](https://www.tidytextmining.com/)
+ - R package for working with dates: [https://lubridate.tidyverse.org/](https://lubridate.tidyverse.org/)
+ - [insult generator](http://kshaffer.github.io/insults/)
+ - [shiny apps](https://shiny.rstudio.com/)
+ 
+
+
+
