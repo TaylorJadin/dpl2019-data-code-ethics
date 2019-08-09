@@ -220,7 +220,12 @@ You can combine a few pieces of seeming neutral data which then become stand-ins
  - R package for working with dates: [https://lubridate.tidyverse.org/](https://lubridate.tidyverse.org/)
  - [insult generator](http://kshaffer.github.io/insults/)
  - [shiny apps](https://shiny.rstudio.com/)
+ - [Wiring Pi](http://wiringpi.com/)
+ - [Daily free books from Pact Publishing](https://www.packtpub.com/free-learning)
+ - [Humble Bundle Data Analysis Bundle](https://www.humblebundle.com/books/data-analysis-machine-learning-books?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_4)
  
-
-
-
+### Takeaways
+  - privacy policies and terms of service
+    - look for boilerplate paragraphs or sentences to see where they have put intentional thought or where they have specific needs
+  - [Grooming Students for a Lifetime of Surveillance](https://modelviewculture.com/pieces/grooming-students-for-a-lifetime-of-surveillance)
+    - expectations of privacy and agency can erode over time
