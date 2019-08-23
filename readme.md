@@ -8,7 +8,7 @@
 
 ## Monday
 
-[cool intro activity](https://github.com/kshaffer/dplintros)
+[cool intro activity](https://kshaffer.github.io/dplintros/)
 
 ### Representation
 
