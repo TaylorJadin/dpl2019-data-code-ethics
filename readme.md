@@ -3,6 +3,7 @@
 [website for track - dpl.pushpullfork.com](https://dpl.pushpullfork.com)
 
 [R for Data Science book](https://r4ds.had.co.nz/)
+
 [R cheat sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Monday
