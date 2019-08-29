@@ -204,7 +204,7 @@ Apps/Websites are designed for frictionless use of the features that THEY want y
 
 You can combine a few pieces of seeming neutral data which then become stand-ins for things that we would normally consider discriminatory.
 
-#### media recommendations
+#### recommendations
 
 [I Am Jane Doe](https://www.netflix.com/title/80167459)
 
@@ -212,3 +212,8 @@ You can combine a few pieces of seeming neutral data which then become stand-ins
 
 **Lack of ethical imagination can be as dangerous as malicious intent.**
 
+[Symphony for the City of the Dead](https://www.amazon.com/Symphony-City-Dead-Shostakovich-Leningrad/dp/1531863183)
+
+[Feed](https://www.amazon.com/Feed-M-T-Anderson/dp/0763662623)
+
+[Ethical EdTech Wiki](https://ethicaledtech.info/wiki/Meta:Welcome_to_Ethical_EdTech)
