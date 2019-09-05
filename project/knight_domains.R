@@ -8,8 +8,3 @@ monthly_signups <- read_csv('project/signups_by_month.csv',
 
 ggplot(data = monthly_signups) +
   geom_col(aes(month, signups))
-
-ggplot(data = monthly_signups) +
-  #geom_col(aes(month, signups)) +
-  geom_line(aes(month, total))
-  
